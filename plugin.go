@@ -7,7 +7,7 @@ import (
 	"time"
 
 	log "github.com/Sirupsen/logrus"
-	client "github.com/rancher/go-rancher/v2"
+	client "github.com/rancher/go-rancher/v3"
 )
 
 type Plugin struct {
